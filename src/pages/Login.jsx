@@ -71,9 +71,7 @@ export default function Login() {
             </p>
             <div className="text-sm text-slate-600 space-y-1">
               <p className="font-semibold">Developed by:</p>
-              <p>Jah'swill</p>
-              <p>Chibuokem</p>
-              <p>Trotsky</p>
+              <p>Masterminds🤓😂 of Group 8</p>
             </div>
           </div>
 
