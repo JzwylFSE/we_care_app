@@ -127,9 +127,13 @@ export default function AddPatient() {
                   onChange={handleChange}
                   className="w-full border rounded-md px-3 py-2 text-sm bg-white"
                 >
-                  <option>internists</option>
-                  <option>cardiac</option>
+                  <option>Internists</option>
+                  <option>Cardiology</option>
                   <option>Orthopedics</option>
+                  <option>Neurology</option>
+                  <option>Gynecology</option>
+                  <option>Pediatrics</option>
+                  <option>Surgeons</option>
                 </select>
               </div>
               <div>
@@ -184,8 +188,20 @@ export default function AddPatient() {
                   onChange={handleChange}
                   className="w-full border rounded-md px-3 py-2 text-sm bg-white"
                 >
-                  <option>DR.Mohamed</option>
-                  <option>DR.Ahmed</option>
+                  <option>Dr. Jah'swill</option>
+                  <option>Dr. Chibuokem</option>
+                  <option>Dr. Trotsky</option>
+                  <option>Dr. Chisom</option>
+                  <option>Dr. Kelvin</option>
+                  <option>Dr. Joshua</option>
+                  <option>Dr. Jaspha</option>
+                  <option>Dr. Ekene</option>
+                  <option>Dr. Efe</option>
+                  <option>Dr. MiiLy</option>
+                  <option>Dr. Yaphany</option>
+                  <option>Dr. Daniel</option>
+                  <option>Dr. ABC</option>
+                  <option>Dr. Ibitimi</option>
                 </select>
               </div>
               <div>
